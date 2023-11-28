@@ -1,2 +1,2 @@
 # indico-test
-[First topic](new-to-indico-un.md)
+This is a test repository.
